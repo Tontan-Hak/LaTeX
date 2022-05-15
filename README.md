@@ -48,3 +48,7 @@ I will collect all the document that related to math which can help you grow and
 
 
 ## Calculus 
+## Latex
+- [Video Tutorial]()
+    * [Video in English](https://www.youtube.com/playlist?list=PL1D4EAB31D3EBC449)
+    * [Video in Khmer](https://www.youtube.com/playlist?list=PLWM_YBhktZmz_hR14G5KfDtGJz_6AQehv)
