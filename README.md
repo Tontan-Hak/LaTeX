@@ -8,14 +8,14 @@
 - Typography
 - Ability to create complex design 
 ## TeX distribution
-[x] Tex Distribution (ម៉ាសុីនបម្លែង កម្មវិធីអានឯកសារ pdf និងជំនួយផ្សេងទៀត
+- [x] Tex Distribution (ម៉ាសុីនបម្លែង កម្មវិធីអានឯកសារ pdf និងជំនួយផ្សេងទៀត
 - TeXlive
 - MikTeX
 - proTeXt
 - ConTeXt
 - MacTex ...
 ## TeX editor
-[x] TeX editor (កម្មវិធីជំនួយដល់ការសរសេរ)
+- [x] TeX editor (កម្មវិធីជំនួយដល់ការសរសេរ)
 - TeXstudio
 - TeXmaker
 - TeXworks
@@ -23,7 +23,7 @@
 - TeXshop ...
 
 ### TeXmaker
-[x] Download and install Texmaker  ខាងក្រោយនេះមាន link ពីរ ទី១ គឺ Texlive និង ទី២ គឺ texmaker ។
+- [x] Download and install Texmaker  ខាងក្រោយនេះមាន link ពីរ ទី១ គឺ Texlive និង ទី២ គឺ texmaker ។
 1. [First install](https://download.nus.edu.sg/.../ctan/systems/texlive/Images/)
 2. [Second install](https://www.xm1math.net/texmaker/download.html) 
 ### TeXstudio
