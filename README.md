@@ -86,6 +86,7 @@ LaTeX is a high-quality typesetting system; it includes features designed for th
 ### Some resources to suport in writing Latex
 - [Theme beamer](https://mpetroff.net/files/beamer-theme-matrix/)
 - [Latex color](http://latexcolor.com/)
+- [Explore more](https://www.latex-project.org/)
 
 
 
