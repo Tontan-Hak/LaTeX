@@ -87,6 +87,3 @@ LaTeX is a high-quality typesetting system; it includes features designed for th
 
 
 
-
-
-
