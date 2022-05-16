@@ -76,8 +76,10 @@ LaTeX is a high-quality typesetting system; it includes features designed for th
 👉 [Link](https://www.overleaf.com/project)
 ## Video Tutorial
 - [Video playlist]()
-    * [Video in English](https://www.youtube.com/playlist?list=PL1D4EAB31D3EBC449)
-    * [Video in Khmer](https://www.youtube.com/playlist?list=PLWM_YBhktZmz_hR14G5KfDtGJz_6AQehv)
+    * [Texmaker](https://www.youtube.com/playlist?list=PL1D4EAB31D3EBC449)
+    * [Overleaf](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxcWWkx2DMnQmj5os2X5ZR73)
+    * [Texstudio](https://www.youtube.com/playlist?list=PLknjcpwMhvSgauKyhScPiQGW9H4V0EKj5)
+    * [MacTEX](https://www.youtube.com/watch?v=VhmkLrOjLsw&list=RDCMUCwRXb5dUK4cvsHbx-rGzSgw&start_radio=1&rv=VhmkLrOjLsw&t=25)
 ### Some resources to suport in writing Latex
 - [Theme beamer](https://mpetroff.net/files/beamer-theme-matrix/)
 - [Latex color](http://latexcolor.com/)
