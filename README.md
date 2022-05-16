@@ -16,14 +16,14 @@ To produce this in most typesetting or word-processing systems, the author would
 
 LaTeX is based on the idea that it is better to leave document design to document designers, and to let authors get on with writing documents. So, in LaTeX you would input this document as:
 
-[\documentclass{article}]
-[\title{Cartesian closed categories and the price of eggs}]
-[\author{Jane Doe}]
-[\date{September 1994}]
-[\begin{document}]
-   [\maketitle]
-   [Hello world!]
-[\end{document}]
+[\documentclass{article}]()
+[\title{Cartesian closed categories and the price of eggs}]()
+[\author{Jane Doe}]()
+[\date{September 1994}]()
+[\begin{document}]()
+   [\maketitle]()
+   [Hello world!]()
+[\end{document}]()
 
 Or, in English:
 
