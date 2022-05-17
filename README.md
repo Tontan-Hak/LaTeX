@@ -22,8 +22,8 @@ LaTeX is based on the idea that it is better to leave document design to documen
 3. [\author{Jane Doe}]()
 4. [\date{September 1994}]()
 5. [\begin{document}]()
-6.    [\maketitle]()
-7.    [Hello world!]()
+6.       [\maketitle]()
+7.       [Hello world!]()
 8. [\end{document}]()
 
 Or, in English:
