@@ -20,14 +20,15 @@ LaTeX is based on the idea that it is better to leave document design to documen
 $\int xdx$
 
 Equation $ax^2+bx+c=0 \quad\text{that}\quad a\neq 0$
-```1. [\documentclass{article}]()
-2. [\title{Cartesian closed categories and the price of eggs}]()
-3. [\author{Jane Doe}]()
-4. [\date{September 1994}]()
-5. [\begin{document}]()
-6.    [\maketitle]()
-7.    [Hello world!]()
-8. [\end{document}]()
+```
+1. \documentclass{article}
+2. \title{Cartesian closed categories and the price of eggs}
+3. \author{Jane Doe}
+4. \date{September 1994}
+5. \begin{document}
+6.    \maketitle]
+7.    Hello world!
+8. \end{document}
 ```
 Or, in English:
 
