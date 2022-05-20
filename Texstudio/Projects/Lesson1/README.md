@@ -1,6 +1,6 @@
 # Code 
 
-``
+```
 \documentclass[12pt,a4paper]{book}
 \usepackage[margin=1cm,includehead,includefoot]{geometry}
 \usepackage[T1]{fontenc}
