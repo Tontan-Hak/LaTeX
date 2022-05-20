@@ -19,7 +19,7 @@ LaTeX is based on the idea that it is better to leave document design to documen
 
 $\int xdx$
 
-Equation $ax^2+bx+c=0 \text{that} a\neq 0$
+Equation $ax^2+bx+c=0 \qquad \text{that} a\neq 0$
 1. [\documentclass{article}]()
 2. [\title{Cartesian closed categories and the price of eggs}]()
 3. [\author{Jane Doe}]()
