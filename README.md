@@ -68,8 +68,8 @@ LaTeX is a high-quality typesetting system; it includes features designed for th
 
 ### TeXmaker
 - [x] Download and install Texmaker  ខាងក្រោយនេះមាន link ពីរ ទី១ គឺ Texlive និង ទី២ គឺ texmaker ។
-1. [First install](https://download.nus.edu.sg/.../ctan/systems/texlive/Images/)
-2. [Second install](https://www.xm1math.net/texmaker/download.html) 
+1. [First install](https://download.nus.edu.sg/mirror/ctan/systems/texlive/Images/?fbclid=IwAR1RT_G2XN_rmiCHa-mr8dfiT_sb2lr-SSjIh9_tyta3w_h8PeD1EdrNP24)
+2. [Second install](https://www.xm1math.net/texmaker/download.html?fbclid=IwAR3u4GnunTHSrjCkIKhgcwsWtrA-Ub1cy72y8jKx__phr7LWObthW60p2_4) 
 ### TeXstudio
 👉 [Link](https://www.texstudio.org/)
 
