@@ -1,6 +1,6 @@
 ## How to write maths exercises and font khmer
 - Lesson 1
-## Example
+
 ```
 \documentclass[12pt,a4paper]{article}
 \usepackage[utf8]{inputenc}
