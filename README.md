@@ -1,5 +1,5 @@
 ![eyecatch-latex](https://user-images.githubusercontent.com/85992213/168587160-5e6909bd-54e3-4bd0-b6a8-2f47bcf0123b.png)
-![photo_2022-05-21_01-23-01](https://user-images.githubusercontent.com/85992213/169589886-4d88fbdd-b5d8-4dce-aaa5-dfd025c96c9b.jpg)
+![alt text](https://i.stack.imgur.com/AarYf.png)
 # 🚀 Lets get started   [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 " The only way to DO GREAT WORK is to love what you do." .... Steve Jobs .... 
 -----
