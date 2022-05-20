@@ -18,6 +18,7 @@ To produce this in most typesetting or word-processing systems, the author would
 LaTeX is based on the idea that it is better to leave document design to document designers, and to let authors get on with writing documents. So, in LaTeX you would input this document as:
 
 $\int xdx$
+
 Equation $ax^2+bx+c=0 \text{that} a\neq 0$
 1. [\documentclass{article}]()
 2. [\title{Cartesian closed categories and the price of eggs}]()
