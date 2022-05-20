@@ -16,7 +16,7 @@ Hello world!
 To produce this in most typesetting or word-processing systems, the author would have to decide what layout to use, so would select (say) 18pt Times Roman for the title, 12pt Times Italic for the name, and so on. This has two results: authors wasting their time with designs; and a lot of badly designed documents!
 
 LaTeX is based on the idea that it is better to leave document design to document designers, and to let authors get on with writing documents. So, in LaTeX you would input this document as:
-
+\everymath{\displaystyle}
 $\int xdx$
 1. [\documentclass{article}]()
 2. [\title{Cartesian closed categories and the price of eggs}]()
