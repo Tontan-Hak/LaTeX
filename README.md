@@ -91,6 +91,10 @@ LaTeX is a high-quality typesetting system; it includes features designed for th
 - [Theme beamer](https://mpetroff.net/files/beamer-theme-matrix/)
 - [Latex color](http://latexcolor.com/)
 - [Explore more](https://www.latex-project.org/)
+## Latex
+| Tutorials | Projects | Resources |
+| --- | --- | --- |
+| Texmaker | Texstudio | Overleaf |
+| Texlive | MacTex | MikTex |
 
-
-
+This is created on *Friday*  **Saturday** and ```Sunday```
