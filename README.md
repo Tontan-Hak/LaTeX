@@ -97,4 +97,4 @@ LaTeX is a high-quality typesetting system; it includes features designed for th
 | Texmaker | Texstudio | Overleaf |
 | Texlive | MacTex | MikTex |
 
-This is created on *Friday*  **Saturday** and --Sunday--
+This is created on *Friday*  **Saturday** and ```Sunday```
