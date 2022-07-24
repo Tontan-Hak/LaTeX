@@ -1,4 +1,4 @@
-![eyecatch-latex](https://user-images.githubusercontent.com/85992213/168587160-5e6909bd-54e3-4bd0-b6a8-2f47bcf0123b.png)
+![LaTeX](https://user-images.githubusercontent.com/85992213/180629165-8dd867a5-7ab0-46cd-89e4-c4c6ccd70554.png)
 # 🚀 Lets get started   [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 " The only way to DO GREAT WORK is to love what you do." .... Steve Jobs .... 
 -----
