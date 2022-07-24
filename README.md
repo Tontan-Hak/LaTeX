@@ -92,6 +92,7 @@ LaTeX is a high-quality typesetting system; it includes features designed for th
 - [Latex color](http://latexcolor.com/)
 - [Explore more](https://www.latex-project.org/)
 ## Latex
+
 | Tutorials | Projects | Resources |
 | --- | --- | --- |
 | Texmaker | Texstudio | Overleaf |
