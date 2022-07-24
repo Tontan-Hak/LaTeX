@@ -75,18 +75,18 @@ LaTeX is a high-quality typesetting system; it includes features designed for th
 1. [First install](https://download.nus.edu.sg/mirror/ctan/systems/texlive/Images/?fbclid=IwAR1RT_G2XN_rmiCHa-mr8dfiT_sb2lr-SSjIh9_tyta3w_h8PeD1EdrNP24)
 2. [Second install](https://www.xm1math.net/texmaker/download.html?fbclid=IwAR3u4GnunTHSrjCkIKhgcwsWtrA-Ub1cy72y8jKx__phr7LWObthW60p2_4) 
 ### TeXstudio
-👉 [Link](https://www.texstudio.org/)
+[👉 Link](https://www.texstudio.org/)
 
 ### Overleaf
-👉 [Link](https://www.overleaf.com/project)
+[👉 Link](https://www.overleaf.com/project)
 ## Video Tutorial
-- [Video playlist]()
-    * [Texmaker](https://www.youtube.com/playlist?list=PL1D4EAB31D3EBC449)
+- [ 🎥 Video playlist]()
+    * [Texmaker in English](https://www.youtube.com/playlist?list=PL1D4EAB31D3EBC449) | [Texmaker in Khmer](https://www.youtube.com/playlist?list=PLWM_YBhktZmz_hR14G5KfDtGJz_6AQehv)
     * [Overleaf](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxcWWkx2DMnQmj5os2X5ZR73)
     * [Texstudio](https://www.youtube.com/playlist?list=PLknjcpwMhvSgauKyhScPiQGW9H4V0EKj5)
     * [MacTEX](https://www.youtube.com/watch?v=VhmkLrOjLsw&list=RDCMUCwRXb5dUK4cvsHbx-rGzSgw&start_radio=1&rv=VhmkLrOjLsw&t=25)
 ## 📚 Ebook 
-👉👉 [សៀវភៅLatex](https://drive.google.com/drive/folders/1a8CkV7VCsjNmiAWlJtG7cWF5viTBxyPV?usp=sharing)
+[ 📖 Latex books](https://drive.google.com/drive/folders/1a8CkV7VCsjNmiAWlJtG7cWF5viTBxyPV?usp=sharing)
 ### Some resources to suport in writing Latex
 - [Theme beamer](https://mpetroff.net/files/beamer-theme-matrix/)
 - [Latex color](http://latexcolor.com/)
