@@ -108,4 +108,3 @@ LaTeX is a high-quality typesetting system; it includes features designed for th
 <a href="https://github.com/Tontan-Hak/LaTeX/blob/main/license"><img src="https://img.shields.io/github/license/Tontan-Hak/LaTeX?color=2b9348" alt="License Badge"/></a>
 
 --- 
-
